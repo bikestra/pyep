@@ -1,4 +1,5 @@
 # pyep
-Python package for expectation propagation
 
-This is a package for expectation propagation in Python. 
+PyEP is a Python library for expectation propagation
+
+
